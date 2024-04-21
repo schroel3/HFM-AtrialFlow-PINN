@@ -1,4 +1,3 @@
-
 % Load the MAT file
 load('train_data_LAA_no_slip_patient_3.mat');
 
